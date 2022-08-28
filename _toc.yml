@@ -1,0 +1,10 @@
+format: jb-book
+root: introduccion
+parts:
+- caption: Apredizaje supervisado
+  numbered: true
+  chapters:
+  - file: Softmax
+    title: "Regresi\xF3n Softmax"
+  - file: ensembles
+    title: "M\xE9todos ensembles"
